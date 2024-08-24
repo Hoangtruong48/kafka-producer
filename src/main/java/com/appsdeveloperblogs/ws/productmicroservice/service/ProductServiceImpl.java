@@ -1,5 +1,6 @@
 package com.appsdeveloperblogs.ws.productmicroservice.service;
 
+import com.appsdeveloperblog.ws.core.ProductCreatedEvent;
 import com.appsdeveloperblogs.ws.productmicroservice.model.CreateProductRestModel;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
